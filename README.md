@@ -40,8 +40,8 @@ Homicide data  set - From Kaggle
 ![first Rows and last rows](https://github.com/Nilanka1982/Homicide-Data-Analyzing-Visualization/assets/66845038/cef0620c-cd9a-4bc7-9123-2dd5e8565047)
 
 
- #### Cleaning
+   #### Cleaning
 
-   ```na_counts <- colSums(is.na(df))
-      na_counts
-  ```
+     ```na_counts <- colSums(is.na(df))
+        na_counts
+     ```
