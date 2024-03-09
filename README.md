@@ -7,4 +7,13 @@ Purpose of This Data analysis project is to identyfing peak values of the variab
 Homicide data  - From Kaggle
 
 ### Tool
-I used R programming here to Import , Manipulation, Cleaning, Satistical Analysis and Visualization
+I used R programming here to Import , Manipulation, Cleaning, and Visualization
+
+### Data Cleaning
+1. Data Loading.
+2. Investigating all varibles and identifying missing data and data with wrong data type.
+3. Handling Missing values.
+4. Converting to the Correct Data Type. (Data Formatting)
+5. Removing error Data with error data type.
+   
+####
