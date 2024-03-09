@@ -41,8 +41,7 @@ Homicide data  set - From Kaggle
 
 
  #### Cleaning
- 
- ``` na_counts <- colSums(is.na(df))
-     na_counts
-```
 
+   ```na_counts <- colSums(is.na(df))
+      na_counts
+  ```
