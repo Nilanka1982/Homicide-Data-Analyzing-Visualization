@@ -15,7 +15,6 @@ Homicide data  set - From Kaggle
 3. Handling Missing values.
 4. Converting to the Correct Data Type. (Data Formatting)
 5. Removing error Data with error data type.
+   ```df <- read.csv('/kaggle/input/homicides/homicide-data.csv')
+      head(df)
    ```
-df <- read.csv('/kaggle/input/homicides/homicide-data.csv')
-head(df)
-```
